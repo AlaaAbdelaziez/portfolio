@@ -17,7 +17,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// 2. Simple Navbar Background Effect on Scroll
+
 const navbar = document.querySelector('.navbar');
 
 window.addEventListener('scroll', () => {
